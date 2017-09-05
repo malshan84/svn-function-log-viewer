@@ -1,5 +1,5 @@
 # electron-react-ts
-If foreman is not installed
+If yarn is not installed
 ```bash
 npm install --global yarn
 ```
