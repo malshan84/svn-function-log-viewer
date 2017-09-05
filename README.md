@@ -1,6 +1,7 @@
 # electron-react-ts
 ```bash
 yarn install
+tsc
 yarn start
 ```
 
