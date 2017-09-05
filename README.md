@@ -1,4 +1,9 @@
 # electron-react-ts
+If foreman is not installed
+```bash
+yarn global add foreman
+```
+
 ```bash
 yarn install
 tsc
