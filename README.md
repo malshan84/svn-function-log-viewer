@@ -4,6 +4,7 @@ If foreman is not installed
 yarn global add foreman
 ```
 
+Execute the following commands in order.
 ```bash
 yarn install
 tsc
