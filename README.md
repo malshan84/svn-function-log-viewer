@@ -1,4 +1,4 @@
-# electron-react-ts
+# electron and react use typescript boilerplate
 If yarn is not installed
 ```bash
 npm install --global yarn
